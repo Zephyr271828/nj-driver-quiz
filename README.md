@@ -19,6 +19,6 @@ Each question is one line in `data/questions.json` (format: [docs/DATA.md](docs/
 
 ## Credits & license
 
-Questions, translations and images come from [njq.vercel.app](https://njq.vercel.app); rules come from the [NJ Driver Manual](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf). This is an unofficial study aid. If anything here disagrees with the manual, the manual is right.
+All questions (with translations and images) come from [njq.vercel.app](https://njq.vercel.app). The explanations have been revised for this project. Rules come from the [NJ Driver Manual](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf). This is an unofficial study aid. If anything here disagrees with the manual, the manual is right.
 
 The code is under the [MIT License](LICENSE). The content in `data/` is not covered by MIT.
