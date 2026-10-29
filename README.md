@@ -2,6 +2,8 @@
 
 567 bilingual (English / 中文) practice questions for the New Jersey driver knowledge test, with an explanation for every question, a mistake notebook, mock exams, and progress saved in your browser.
 
+**Use it online:** https://zephyr271828.github.io/nj-driver-quiz/
+
 ## Run locally
 
 ```bash
